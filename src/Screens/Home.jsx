@@ -40,7 +40,7 @@ export default function HomePage() {
       <header className="hero-section">
         <div className="hero-text-container">
           <h1>
-          AuthPrimus <br/>
+         Kibbarius <br/>
           New generation of API <br/>
           Modern authentication platform
           </h1>

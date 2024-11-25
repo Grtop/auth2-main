@@ -140,7 +140,7 @@ export default function SignIn() {
       <span
         style={{ cursor: 'pointer' }}
         onClick={() => {
-          navigate('/home');
+          navigate('/Signup');
         }}
       >
         Создать новую учетную запись
